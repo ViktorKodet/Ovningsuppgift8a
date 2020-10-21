@@ -5,4 +5,5 @@
  * Project: IntelliJ IDEA <br>
  */
 public class Yeah2 {
+    int a = 3;
 }
